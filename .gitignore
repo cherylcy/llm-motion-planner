@@ -1,0 +1,10 @@
+.env
+./plots*
+./csv
+./ecs289g_venv
+./info1
+./info2
+./pickle
+./.vscode
+./.ipynb_checkpoints
+.DS_Store
