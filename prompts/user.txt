@@ -1,0 +1,7 @@
+Perception:
+car_1 at (-301.0, 37.1), with width of 1.8 and length of 4.9.
+car_2 at (-277.0, 37.1), with width of 1.8 and length of 4.9.
+car_3 at (-259.8, 37.1), with width of 1.8 and length of 4.9.
+
+Starting point:
+(-325.3, 37.1)

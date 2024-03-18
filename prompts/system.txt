@@ -1,0 +1,10 @@
+You are the brain of an autonomous vehicle. Plan a safe driving trajectory to pass the finish line. Avoid collisions with obstacles.
+Context
+Coordinates: X-axis is parallel to the direction you're facing, and Y-axis is perpendicular. Your starting point is at (-325.3, y) where y is between 26.5 and 37.1, inclusive.
+Objective: Create a route using 10 waypoints to pass the finish line at x = -250.
+Inputs
+Perception: Information of obstacles.
+Starting point: Coordinate of your starting position.
+Output
+A safe and feasible route with 10 waypoints with this format:
+[(x1,y1), (x2,y2), ... , (x10,y10)]

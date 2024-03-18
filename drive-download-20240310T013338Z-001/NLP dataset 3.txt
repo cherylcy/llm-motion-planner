@@ -1,0 +1,71 @@
+65
+Obstacle:
+car_1 at (-301.0, 37.1), with width of 1.8 and length of 4.9.
+car_2 at (-278.8, 30.0), with width of 1.8 and length of 4.9.
+car_3 at (-258.2, 37.1), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 37.1), (-324.4, 37.1), (-315.1, 37.0), (-304.7, 33.5), (-293.6, 33.6), (-282.6, 33.6), (-271.5, 33.6), (-260.5, 33.6), 
+
+66
+Obstacle:
+car_1 at (-301.0, 26.6), with width of 1.8 and length of 4.9.
+car_2 at (-278.8, 30.0), with width of 1.8 and length of 4.9.
+car_3 at (-256.9, 33.6), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 26.6), (-324.4, 26.6), (-315.1, 26.5), (-304.7, 30.1), (-293.7, 30.0), (-285.8, 30.1), (-283.5, 30.4), (-283.5, 30.5), (-283.4, 30.6), (-283.4, 30.6), (-283.5, 30.6), (-283.6, 30.6), (-283.7, 30.6), (-283.8, 30.6), 
+
+67
+Obstacle:
+car_1 at (-301.0, 26.6), with width of 1.8 and length of 4.9.
+car_2 at (-279.5, 37.1), with width of 1.8 and length of 4.9.
+car_3 at (-256.1, 37.1), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 26.6), (-324.4, 26.6), (-315.1, 26.5), (-304.7, 30.1), (-293.7, 30.0), (-282.6, 30.1), (-271.6, 30.1), (-260.5, 30.1), 
+
+68
+Obstacle:
+car_1 at (-301.0, 37.1), with width of 1.8 and length of 4.9.
+car_2 at (-276.2, 26.6), with width of 1.8 and length of 4.9.
+car_3 at (-257.6, 30.0), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 37.1), (-324.4, 37.1), (-315.1, 37.0), (-304.7, 33.5), (-293.6, 33.6), (-282.6, 33.6), (-271.5, 33.6), (-260.5, 33.6), 
+
+69
+Obstacle:
+car_1 at (-301.0, 26.6), with width of 1.8 and length of 4.9.
+car_2 at (-279.6, 30.0), with width of 1.8 and length of 4.9.
+car_3 at (-259.7, 33.6), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 26.6), (-324.4, 26.6), (-315.1, 26.5), (-304.7, 30.1), (-293.7, 30.0), (-285.8, 30.1), (-284.4, 30.1), (-284.4, 30.2), (-284.4, 30.2), (-284.4, 30.2), (-284.4, 30.2), (-284.4, 30.2), (-284.4, 30.3), (-284.4, 30.3), 
+
+70
+Obstacle:
+car_1 at (-301.0, 26.6), with width of 1.8 and length of 4.9.
+car_2 at (-278.8, 37.1), with width of 1.8 and length of 4.9.
+car_3 at (-258.2, 33.6), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 26.6), (-324.4, 26.6), (-315.1, 26.5), (-304.7, 30.1), (-293.7, 30.0), (-282.6, 30.1), (-271.6, 30.3), (-263.5, 31.6), (-262.4, 31.8), (-262.5, 31.8), (-262.6, 31.8), (-262.7, 31.7), (-262.8, 31.7), (-262.9, 31.7), 
+
+71
+Obstacle:
+car_1 at (-301.0, 33.6), with width of 1.8 and length of 4.9.
+car_2 at (-278.0, 26.6), with width of 1.8 and length of 4.9.
+car_3 at (-258.9, 30.0), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 33.6), (-324.4, 33.6), (-314.9, 33.5), (-304.6, 30.4), (-293.6, 30.1), (-282.6, 30.1), (-271.9, 31.9), (-261.2, 33.6), (-250.1, 33.6), 
+
+72
+Obstacle:
+car_1 at (-301.0, 26.6), with width of 1.8 and length of 4.9.
+car_2 at (-276.9, 30.0), with width of 1.8 and length of 4.9.
+car_3 at (-258.6, 33.6), with width of 1.8 and length of 4.9.
+
+ego vehicle trajectory:
+(-325.3, 26.6), (-324.4, 26.6), (-315.1, 26.5), (-304.7, 30.1), (-293.7, 30.0), (-285.8, 30.1), (-283.0, 30.5), (-273.3, 33.3), (-267.3, 34.0), 
