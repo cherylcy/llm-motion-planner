@@ -1,0 +1,50 @@
+test_scenario: NLP_test
+vehicle_list:
+  - id: 0
+    spawn_position: [-325.3, 33.6, 5, 0, 0, 0]
+    destination: [[-201.3, 33.6, 0.3]]
+    perception:
+      camera:
+        visualize: 0
+        num: 0
+    behavior:
+      max_speed: 20
+      local_planner:
+        debug_trajectory: true
+        debug: true
+
+  - id: 1
+    spawn_position: [ -301.0, 33.6, 5, 0, 0, 0 ]
+    destination: [ [ -201.3, 33.6, 0.3 ] ]
+    perception:
+      camera:
+        visualize: 0
+        num: 0
+    behavior:
+      local_planner:
+        debug_trajectory: true
+        debug: true
+
+  - id: 2
+    spawn_position: [ -286.0, 30.0, 5, 0, 0, 0 ]
+    destination: [ [ -201.3, 33.6, 0.3 ] ]
+    perception:
+      camera:
+        visualize: 0
+        num: 0
+    behavior:
+      local_planner:
+        debug_trajectory: true
+        debug: true
+
+  - id: 3
+    spawn_position: [ -282.0, 37.0, 5, 0, 0, 0 ]
+    destination: [ [ -201.3, 33.6, 0.3 ] ]
+    perception:
+      camera:
+        visualize: 0
+        num: 0
+    behavior:
+      local_planner:
+        debug_trajectory: true
+        debug: true
